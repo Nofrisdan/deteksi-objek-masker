@@ -1,6 +1,6 @@
 # Deteksi Objek Masker
 
-<p> Merupakan sebuah proses dalam melakukan training sebuah kecerdasan buatan / Artificial Intelegence, pada kegiatan training ini saya berhasil melakukan proses training dengan data image positif berjumlah <code>200</code> dan data image negatif berjumlah <code>600</code></p>
+<p> Merupakan sebuah proses dalam melakukan training sebuah kecerdasan buatan / Artificial Intelegence, pada kegiatan training ini saya berhasil melakukan proses training dengan data image positif berjumlah <code>200</code> dan data image negatif berjumlah <code>400</code></p>
 
 # Tujuan 
 <p>Adapun tujuan yang didapatkan dalam proses training ini ialah untuk dapat menguji coba sistem apakah mampu mendeteksi masker yang digunakan oleh pengguna</p>
