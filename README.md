@@ -13,9 +13,14 @@ https://youtu.be/C4V4FxjLOE8
 
 ```
 
+# Gambar Hasil 
+<img src="deteksi-objek.png" >
+
 # Tools Yang digunakan 
 <ol>
   <li>Sistem Operasi <code>Windows 10 </code></li>
   <li>Library <code>Open CV Python</code></li>
 </ol>
+
+
 
